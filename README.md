@@ -10,3 +10,4 @@
 实现的步骤见如下的飞书文档链接：https://qesrryzybn.feishu.cn/docx/Z7eUdJbz4oC82DxX7WicmoccnAg?from=from_copylink
 
 最终效果见演示demo
+【无人机虚拟仿真平台演示demo】 https://www.bilibili.com/video/BV1zRhXz5EV6/?share_source=copy_web&vd_source=e16e66fea8dc829d87174addffd27452
