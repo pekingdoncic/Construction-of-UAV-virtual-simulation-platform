@@ -7,6 +7,10 @@
 
 这个项目的背景见任务介绍.pdf文件
 
+**AirSim**文件夹中是基于python语言撰写的控制无人机飞行的相关代码。
+
+
+
 实现的步骤见如下的飞书文档链接：https://qesrryzybn.feishu.cn/docx/Z7eUdJbz4oC82DxX7WicmoccnAg?from=from_copylink
 
 最终效果见演示demo
